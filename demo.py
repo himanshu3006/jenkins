@@ -26,5 +26,5 @@ def numpat(n):
         print("\r")
  
 # Driver code
-n = 5
+n = 8
 numpat(n)
